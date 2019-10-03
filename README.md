@@ -11,3 +11,7 @@ The program solves a polynomial equation of degree less than or equal to 2
 5. Using colors
 
 # Examples
+
+<p align="center">
+<img src="https://github.com/kmieshko/ComputorV1/blob/master/examples/ComputorV1.png" width=800>
+</p>
